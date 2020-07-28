@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/TestResults/
+/.idea/
+/XorShiftPlusAdditions.sln.DotSettings.user

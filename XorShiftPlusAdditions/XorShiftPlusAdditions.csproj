@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>XorShiftPlusAdditions</Title>
+        <Authors>bartimaeusnek</Authors>
+        <Description>A simple utility Package that makes the XSTR Random more convenient</Description>
+        <Copyright>2020 bartimaeusnek</Copyright>
+        <PackageTags>xstr, random, avx, sse</PackageTags>
+    </PropertyGroup>
+
+</Project>
